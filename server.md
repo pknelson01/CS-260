@@ -20,6 +20,6 @@ DNS Record Type:
   - Address. Specific IP adresses. IPV4 and IPV6. 
 
 ***We need to buy a domain on Route53***  
-##### Due (09.12.2025)
+##### Due (09.12.2025) 
 
 To create a server go to EC2 > **make sure you are in N. Virginia** > launch an instance > name and tags > enter in some value > Application and OS Images > Enter in "ami-018f3a022e128a6b2" > Instance Type > Select t3_nano > associate a key pair with this server by creating a new key pair > ***... rest of the steps are in the class discord notes.***  
